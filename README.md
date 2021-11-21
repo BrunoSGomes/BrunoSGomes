@@ -29,10 +29,10 @@
     <img align="right" height="150" src="https://i.imgur.com/bA3Rn7E.gif"/>
   </a>
   <h1></h1>
-  <a href="https://www.instagram.com/bay.sg/">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/bay.sg/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
   </a>
-  <a href="https://www.linkedin.com/in/bruno-gomes-1927bb1b4">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/bruno-gomes-1927bb1b4" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
 </div>
