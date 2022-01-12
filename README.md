@@ -2,9 +2,9 @@
 
 <div>
   <ul>
-    <li> 🐱‍👤 Meu nome é Bruno Gomes </li>
-    <li> 🐱‍👤 Tenho 21 anos e atualmente trabalho como Web Developer </li>
-    <li> 🐱‍👤 Minha principal linguagem de programação é Typescript/Javascript </li>
+    <li> 😼 Meu nome é Bruno Gomes </li>
+    <li> 😼 Tenho 21 anos e atualmente trabalho como Web Developer </li>
+    <li> 😼 Minha principal linguagem de programação é Typescript/Javascript </li>
   </ul>
 </div>
 
