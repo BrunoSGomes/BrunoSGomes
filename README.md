@@ -3,7 +3,7 @@
 <div>
   <ul>
     <li> Meu nome é Bruno Gomes </li>
-    <li class="years-old"> Tenho 21 anos e atualmente trabalho como Web Developer </li>
+    <li> Tenho 21 anos e atualmente trabalho como Web Developer </li>
     <li> Minha principal linguagem de programação é Typescript/Javascript </li>
   </ul>
 </div>
@@ -17,26 +17,27 @@
 
 <div style="display: inline_block">
   <br>
-  <a href="https://github.com/BrunoSGomes">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  </a>
+  <a href="https://www.typescriptlang.org/docs/">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  </a>
+  <a href="https://angular.io/">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  </a>
+  <a href="https://nodejs.org/en/">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  </a>
+  <a href="https://nestjs.com/">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>
+  </a>
+  <a href="https://www.docker.com/">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-    <img align="right" height="150" src="https://i.imgur.com/bA3Rn7E.gif"/>
-  </a>
+  </a>  
+  <img align="right" height="150" src="https://i.imgur.com/bA3Rn7E.gif"/>
   <h1></h1>
-  <a href="https://www.instagram.com/bay.sg/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/bruno-gomes-1927bb1b4" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
-
-<script>
-  document.getElementById('years-old').innerHTML = Date()
-</script>
