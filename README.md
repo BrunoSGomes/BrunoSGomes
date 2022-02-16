@@ -2,9 +2,9 @@
 
 <div>
   <ul>
-    <li> 😼 Meu nome é Bruno Gomes </li>
-    <li> 😼 Tenho 21 anos e atualmente trabalho como Web Developer </li>
-    <li> 😼 Minha principal linguagem de programação é Typescript/Javascript </li>
+    <li> Meu nome é Bruno Gomes </li>
+    <li class="years-old"> Tenho 21 anos e atualmente trabalho como Web Developer </li>
+    <li> Minha principal linguagem de programação é Typescript/Javascript </li>
   </ul>
 </div>
 
@@ -36,3 +36,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
+
+<script>
+  document.getElementById('years-old').innerHTML = Date()
+</script>
