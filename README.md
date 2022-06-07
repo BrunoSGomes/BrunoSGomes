@@ -4,7 +4,7 @@
   <ul>
     <li> Meu nome é Bruno Gomes </li>
     <li> Tenho 21 anos e atualmente trabalho como Web Developer </li>
-    <li> Minha principal linguagem de programação é Typescript/Javascript </li>
+    <li> Minha principal linguagem de programação é Typescript/Javascript e Golang</li>
   </ul>
 </div>
 
@@ -17,6 +17,9 @@
 
 <div style="display: inline_block">
   <br>
+  <a href="https://go.dev/">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
+  </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   </a>
@@ -31,9 +34,6 @@
   </a>
   <a href="https://nestjs.com/">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>
-  </a>
-  <a href="https://www.docker.com/">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   </a>  
   <img align="right" height="150" src="https://i.imgur.com/bA3Rn7E.gif"/>
   <h1></h1>
