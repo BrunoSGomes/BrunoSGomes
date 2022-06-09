@@ -17,7 +17,7 @@
 
 <div style="display: inline_block">
   <br>
-  <a href="https://go.dev/">
+  <a href="https://go.dev/" target="_blank">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
