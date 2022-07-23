@@ -1,10 +1,10 @@
-<h1> 💻 Olá, bem-vindo ao meu GitHub! </h1>
+<h1> 💻 Hello, welcome to my GitHub! </h1>
 
 <div>
   <ul>
-    <li> Meu nome é Bruno Gomes </li>
-    <li> Tenho 21 anos e atualmente trabalho como Web Developer </li>
-    <li> Minha principal linguagem de programação é Typescript/Javascript e Golang</li>
+    <li> My name is Bruno Gomes </li>
+    <li> I currently work as a fullstack developer </li>
+    <li> My main programming languages are Typescript/Javascript and Golang </li>
   </ul>
 </div>
 
@@ -17,9 +17,6 @@
 
 <div style="display: inline_block">
   <br>
-  <a href="https://go.dev/" target="_blank">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
-  </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   </a>
@@ -34,7 +31,10 @@
   </a>
   <a href="https://nestjs.com/" target="_blank">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>
-  </a>  
+  </a>
+  <a href="https://go.dev/" target="_blank">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
+  </a>
   <img align="right" height="150" src="https://i.imgur.com/bA3Rn7E.gif"/>
   <h1></h1>
   <a href="https://www.linkedin.com/in/bruno-gomes-1927bb1b4" target="_blank">
