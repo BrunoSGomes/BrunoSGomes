@@ -32,9 +32,6 @@
   <a href="https://nestjs.com/" target="_blank">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>
   </a>
-  <a href="https://go.dev/" target="_blank">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
-  </a>
   <img align="right" height="150" src="https://i.imgur.com/bA3Rn7E.gif"/>
   <h1></h1>
   <a href="https://www.linkedin.com/in/bruno-gomes-1927bb1b4" target="_blank">
