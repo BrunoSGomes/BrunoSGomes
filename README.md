@@ -2,9 +2,9 @@
 
 <div>
   <ul>
-    <li> My name is Bruno Gomes </li>
     <li> I currently work as a fullstack developer </li>
-    <li> My main programming languages are Typescript/Javascript and Golang </li>
+    <li> My main programming languages are Typescript/Javascript </li>
+    <li> I'm always looking for new knowledge </li>
   </ul>
 </div>
 
