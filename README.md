@@ -17,21 +17,6 @@
 
 <div style="display: inline_block">
   <br>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  </a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  </a>
-  <a href="https://angular.io/" target="_blank">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>
-  </a>
   <img align="right" height="150" src="https://i.imgur.com/bA3Rn7E.gif"/>
   <h1></h1>
   <a href="https://www.linkedin.com/in/bruno-gomes-1927bb1b4" target="_blank">
