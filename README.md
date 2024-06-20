@@ -2,11 +2,11 @@
 
 <div>
   <ul>
-    <li> I'm always looking for new knowledge </li>
-    <li> I currently work as a software developer </li>
-    <li> My main programming languages are Typescript/Javascript </li>
+    <li> I'm always looking for new knowledge :) </li>
   </ul>
 </div>
+
+<br>
 
 <div>
   <a href="https://github.com/BrunoSGomes">
